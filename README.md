@@ -1,2 +1,2 @@
-# basic-ai
-Basic university course ai python
+# Basic python ai
+Basic university course in python
